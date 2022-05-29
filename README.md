@@ -1,6 +1,29 @@
 # InvoiceManagement
 AI-Enabled Fintech B2B Invoice Management App
 
+# Introduction
+
+The Web App project titled ‘AI Enabled Fin-tech B2B Cloud Application’ was the task assigned to the trainee of HighRadius. The Web App was constituted in alignment with the four modules explored in the course of the HighRadius program. The application asked for development was a full-stacked model of a B2B Fin-Tech Management Dashboard that fetches data from a server and displays it through the integration of a front-end UI web application.
+
+# Requirement Specification
+
+For Machine Learning domain:
+● View the invoice data from various buyers,
+● See various fields/attributes of the invoice(s) from a particular buyer. 
+● Perform Data Pre-processing on the invoice data.
+● Get account-level analytics to easily visualize and interpret data – EDA and Feature Engineering.
+● Get a prediction of when the invoice is going to get-paid.
+
+
+For Web Application Development:
+● To build a Full-stack Invoice Management Application using ReactJS, JDBC, Java, Servlets.
+● Build a responsive Receivables Dashboard.
+● Visualize Data in the form of grids.
+● Visualize Data in the form of graphs.
+● Perform Searching operations on the invoices.
+● Add & Edit data in the editable fields of the grid.
+● Delete data of selected rows in the predefined templates.
+
 # Project Description
 Below are the major aspects of the application that are developed. 
 1) Data Loading in DB:
@@ -80,3 +103,5 @@ Below are the major aspects of the application that are developed.
   • It is active only when more than one record(s) is(are) selected ,else is disabled.
   • It makes use of the machine learning model trained for prediction ,then updates the value in the database. 
   
+# Conclusion
+Preparation of the project was challenging and also enjoyable. The challenges ahead encouraged me to devote my time learning about the skills and also implement them in order to achieve the desired demand of the UI Application. The application developed by me caters to all demands as stated in the problem statement of the Web Application.
